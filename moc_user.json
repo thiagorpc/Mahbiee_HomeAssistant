@@ -1,0 +1,28 @@
+{
+  "user": {
+    "id": "018f1b16-b7e0-7b15-89e7-d431f272fa98",
+    "name": "Thiago Costa",
+    "email": "thiago.costa@example.com",
+    "username": "thiagocosta123",
+    "phone": "+55 11 91234-1234",
+    "address": {
+      "street": "Rua dos Desenvolvedores",
+      "suite": "Apt 101",
+      "city": "São Paulo",
+      "zipcode": "12345-678",
+      "geo": {
+        "lat": "-23.5505",
+        "lng": "-46.6333"
+      }
+    },
+    "company": {
+      "name": "Tech Solutions",
+      "catchPhrase": "Inovação e tecnologia para o futuro",
+      "bs": "soluções tecnológicas avançadas"
+    },
+    "website": "https://thiagocosta.dev",
+    "profile_picture": "https://via.placeholder.com/150",
+    "createdAt": "2024-09-19T20:45:00Z",
+    "updatedAt": "2024-09-19T20:45:00Z"
+  }
+}
